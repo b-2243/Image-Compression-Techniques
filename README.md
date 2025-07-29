@@ -1,1 +1,1 @@
-# Image-C
+# Image-compression-Techniques
